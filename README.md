@@ -29,9 +29,6 @@
   <img src="https://img.shields.io/badge/Language-Verilog-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Tool-Logisim-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Layout-Microwind%20%7C%20ElectricVLSI-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sim-GTKWave-critical?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS%20%7C%20JS-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat-square" />
 </p>
 
 ---
