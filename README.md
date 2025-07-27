@@ -11,14 +11,14 @@
 
 - 🎓 I'm currently a 3rd-year Electronics & Communication Engineering student at **NIT Silchar**
 - 💻 Exploring the **core domain**: VLSI, Digital Design
-- 🔬 Currently building hands-on projects in **Logisim**, **Verilog**, and **CMOS Layout**
+- 🔬 Currently building hands-on projects in **Verilog**, and **CMOS Layout**
 - 🧠 Preparing for **GATE (ECE)** while developing my tech portfolio
 
 ---
 
 ## 📂 Featured Repositories
 
-- [`vlsi-projects-archita`](https://github.com/archita-2005/vlsi-projects-archita) – Logisim + Verilog + Layout projects for core electronics
+- [`vlsi-projects-archita`](https://github.com/archita-2005/vlsi-projects-archita) – Verilog + Layout projects for core electronics
 - *(more coming soon)*
 
 ---
