@@ -45,7 +45,7 @@
 ## 📬 Connect with Me
 
 - 📧 Email: architaroy.1504@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/archita-royy/)  
+- 💼 LinkedIn: [Archita Roy](https://www.linkedin.com/in/archita-royy/)  
 ---
 
 > 🌱 *This GitHub profile is my learning diary as I explore the intersection of theory and implementation in VLSI.*
