@@ -44,10 +44,8 @@
 
 ## 📬 Connect with Me
 
-- 📧 Email: architaroy2005@gmail.com  
+- 📧 Email: architaroy.1504@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/archita-royy/)  
-- 📘 [Notion Dashboard (VLSI Roadmap)](https://occipital-whale-50c.notion.site/VLSI-GATE-2026-Dashboard-22b0e588c5d780f3bb58eac8b304c89a)
-
 ---
 
 > 🌱 *This GitHub profile is my learning diary as I explore the intersection of theory and implementation in VLSI.*
