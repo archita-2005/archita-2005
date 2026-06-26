@@ -15,30 +15,36 @@
 - 🧠 Preparing for **GATE (ECE)** while developing my tech portfolio
 
 ---
-
 ## 📂 Featured Repositories
 
-- [`vlsi-projects-archita`](https://github.com/archita-2005/vlsi-projects-archita) – Verilog + Layout projects for core electronics
-- *(more coming soon)*
+* [`RISCV-32Bit-Single-Cycle-CPU`](https://github.com/archita-2005/RISCV-32Bit-Single-Cycle-CPU) – 32-bit Single Cycle RISC-V (RV32I) processor implemented in Verilog HDL with modular RTL design and simulation in Xilinx Vivado.
+* [`vlsi-projects-archita`](https://github.com/archita-2005/vlsi-projects-archita) – Collection of Verilog HDL, digital design, and VLSI projects developed during my learning journey.
+* 🚧 More RTL, VLSI, and Embedded Systems projects coming soon.
 
 ---
 
 ## 🧰 Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Language-Verilog-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tool-Logisim-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Layout-Microwind%20%7C%20ElectricVLSI-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/HDL-Verilog-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/EDA-Xilinx%20Vivado-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-RISC--V%20(RV32I)-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/RTL-Digital%20Design-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/VLSI-RTL%20Design-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool-Logisim-blueviolet?style=flat-square" />
 </p>
 
 ---
 
 ## 🗂️ Currently Learning
 
-- ✅ Verilog RTL Design & Testbenching
-- ✅ CMOS Layout (W/L sizing, stick diagrams)
-- ✅ Control Systems, Digital Electronics, Signal Processing
-- ✅ Embedded C and Microcontroller basics
+* 🚀 Advanced RTL Design using Verilog HDL
+* 🚀 RISC-V Processor Design and Computer Architecture
+* 🚀 VLSI Design Flow and CMOS Fabrication
+* 🚀 FPGA Design using Xilinx Vivado
+* 🚀 Embedded Systems and Microcontroller Programming
+* 🚀 GATE ECE Preparation (Digital Electronics, Control Systems, Signal Processing, VLSI)
+
 
 ---
 
