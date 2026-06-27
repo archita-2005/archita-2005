@@ -17,9 +17,13 @@
 ---
 ## 📂 Featured Repositories
 
-* [`RISCV-32Bit-Single-Cycle-CPU`](https://github.com/archita-2005/RISCV-32Bit-Single-Cycle-CPU) – 32-bit Single Cycle RISC-V (RV32I) processor implemented in Verilog HDL with modular RTL design and simulation in Xilinx Vivado.
-* [`vlsi-projects-archita`](https://github.com/archita-2005/vlsi-projects-archita) – Collection of Verilog HDL, digital design, and VLSI projects developed during my learning journey.
-* 🚧 More RTL, VLSI, and Embedded Systems projects coming soon.
+* **RISCV-32Bit-Single-Cycle-CPU** – 32-bit Single Cycle RISC-V (RV32I) processor implemented in Verilog HDL, featuring a modular RTL architecture, instruction execution pipeline, and functional simulation using Xilinx Vivado.
+
+* **Direct_Mapped_Cache_Controller** – 32-bit Direct Mapped Cache Controller implemented in Verilog HDL with cache hit/miss detection, FSM-based control logic, cache refill mechanism, and behavioral main memory simulation in Xilinx Vivado.
+
+* **vlsi-projects-archita** – Collection of Verilog HDL, Digital Design, Computer Architecture, and VLSI projects developed as part of my RTL design and hardware development journey.
+
+🚧 More RTL, Computer Architecture, FPGA, VLSI, and Embedded Systems projects coming soon.
 
 ---
 
@@ -28,12 +32,12 @@
 <p>
   <img src="https://img.shields.io/badge/HDL-Verilog-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/EDA-Xilinx%20Vivado-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Architecture-RISC--V%20(RV32I)-green?style=flat-square" />
   <img src="https://img.shields.io/badge/RTL-Digital%20Design-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-Processors%20%26%20Cache-green?style=flat-square" />
   <img src="https://img.shields.io/badge/VLSI-RTL%20Design-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/FPGA-Design%20Flow-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/Tool-Logisim-blueviolet?style=flat-square" />
 </p>
-
 ---
 
 ## 🗂️ Currently Learning
