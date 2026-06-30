@@ -2,16 +2,16 @@
 
 <p align="center">
   🎓 ECE Undergraduate @ NIT Silchar | 🧠 GATE Aspirant <br>
-  💡 Aspiring VLSI Engineer | 📘 Documenting my journey with GitHub & Notion
+  💡 Aspiring VLSI Engineer | 📘 Documenting my journey with GitHub
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm currently a 3rd-year Electronics & Communication Engineering student at **NIT Silchar**
-- 💻 Exploring the **core domain**: VLSI, Digital Design
-- 🔬 Currently building hands-on projects in **Verilog**, and **CMOS Layout**
+- 🎓 I'm currently a final year Electronics & Communication Engineering student at **NIT Silchar**
+- 💻 Exploring the **core domain**: VLSI, Digital Design, RTL, FPGA
+- 🔬 Currently building hands-on projects in **Verilog**
 - 🧠 Preparing for **GATE (ECE)** while developing my tech portfolio
 
 ---
